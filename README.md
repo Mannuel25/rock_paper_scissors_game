@@ -1,4 +1,3 @@
-# rock_paper_scissors_game
-# I was feeling too bored, so i decided to make a mini rock paper scissors game
-# I hope you enjoy as you play :)
-# Have fun!
+Rock Paper Scissors Game Version 1
+
+I was feeling too bored, so i decided to make a rock paper scissors game. Have fun!
