@@ -3,4 +3,4 @@
 Here is the first version of my rock paper scissors game. 
 
 To run this program, open a terminal in the folder where your script is located and run the command:
- `python ROCK_PAPER_SCISSORS_GAME.py`
+   `python ROCK_PAPER_SCISSORS_GAME.py`
